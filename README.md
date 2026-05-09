@@ -1,7 +1,7 @@
 NUMPY BASIC TO ADVANCE
 
 IN THIS REPO I AM PRACTICING NUMPY CODES TO IMPILMENT ML ALGOES HANDS-ON. 
-ALSO AIMS TO CREATE DATASET AND MODEL.
+ALSO AIMS TO CREATE USABLE DATASET AND MODEL.
 
 
 ## Installation
@@ -21,10 +21,10 @@ After cloning run the ipynb file on vs code
     
 ## Appendix
 
-This repo is purely for my learning purpose and if someone want can take help for the syntaxes
+This repo is purely for my learning purpose and if someone want can take help.
 ## FAQ
 
-#### D0 this repo have advance topic
+#### Do this repo have advance topic
 
 Answer NO
 
